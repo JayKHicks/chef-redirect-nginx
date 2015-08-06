@@ -1,0 +1,5 @@
+normal['nginx']['server_names_hash_bucket_size'] = '512'
+normal['nginx']['user'] = 'nobody'
+normal['nginx']['types_hash_max_size'] = '8192'
+normal['nginx']['types_hash_bucket_size'] = '256'
+normal['nginx']['status']['port'] = '8080'
