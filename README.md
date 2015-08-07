@@ -1,10 +1,10 @@
 # chef-redirect-nginx-cookbook
 
-TODO: Enter the cookbook description here.
+This Cookbook is to Wrap the default NGINX cookbook and make needed attribute changes specific to the Redirect project
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+CENTOS 6.6
 
 ## Attributes
 
@@ -39,4 +39,4 @@ Include `chef-redirect-nginx` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: JHICKS
